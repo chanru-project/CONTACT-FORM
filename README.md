@@ -24,7 +24,7 @@ It validates user inputs before submission and displays error messages for inval
 ---
 
 ## 🖼 Preview
-![Contact Form Screenshot]( https://chanru-project.github.io/CONTACT-FORM/)
+ (https://chanru-project.github.io/CONTACT-FORM/)
 
 *(Place a screenshot of your contact form and save it as `preview.png` in the project folder so GitHub shows it here.)*
 
